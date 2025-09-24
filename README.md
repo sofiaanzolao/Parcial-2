@@ -40,5 +40,5 @@ El objetivo del proyecto es predecir si una persona gana más de **$50.000 USD**
 - Scikit-learn  
 - Pandas / Numpy / Matplotlib  
 
-## 🙌 Autor
+## 🙌 Autores
 Entrega desarrollada por **Gabriela Zamora, Gilberto Galeana y Sofía Anzola**.
