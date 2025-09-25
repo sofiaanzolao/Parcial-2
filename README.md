@@ -10,6 +10,7 @@ El objetivo es predecir si una persona gana más de **50.000 USD** anuales usand
 - 📊 `adult_val_profile.html`: Reporte exploratorio (EDA) del conjunto de **validación**.  
 - 📊 `adult_test_profile.html`: Reporte exploratorio (EDA) del conjunto de **prueba**.  
 - 📑 `resumen_experimentos.csv`: Resumen tabular de los resultados de todos los experimentos (sin y con regularización).  
+- 📂 `adult.data` y `adult.test`: Bases de datos originales descargadas del repositorio UCI.  
 
 ## 🚀 Flujo de trabajo
 1. **Procesamiento de datos**  
@@ -55,4 +56,5 @@ El objetivo es predecir si una persona gana más de **50.000 USD** anuales usand
 
 ## 🙌 Autores
 Entrega desarrollada por **Gabriela Zamora, Gilberto Galeana y Sofía Anzola Ortegón**.  
+
 
